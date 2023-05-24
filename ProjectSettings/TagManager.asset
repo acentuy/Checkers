@@ -8,6 +8,7 @@ TagManager:
   - Corner
   - Board
   - GameOver
+  - ImageTurn
   layers:
   - Default
   - TransparentFX

@@ -7,7 +7,7 @@ public class BoardController : MonoBehaviour
     private const float WIDTH = 500f;
     private const int NUMBER_OF_CELLS = 11;
     private float FIELD_SIZE = WIDTH / NUMBER_OF_CELLS;
-    private readonly float z = 10;
+    private const float z = 10;
 
     void Awake() => CheckCells();
     
